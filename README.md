@@ -2,13 +2,38 @@
 
 A best Eva Icons package for Flutter.
 
+## About
+Flutter package for [Eva Icons](https://akveo.github.io/eva-icons/). Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
+
+This package brings [Eva Icons](https://akveo.github.io/eva-icons/) pack available as Flutter Icons. It has beautiful outlined and rounded Icons.
+
+
 ## Getting Started
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+In the dependencies: section of your `pubspec.yaml`, add the following line:
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+```yaml
+fleva_icons: <latest_version>
+```
+
+## Usage
+
+```dart
+import 'package:fleva_icons/fleva_icons.dart';
+
+class MyWidget extends StatelessWidget {
+  Widget build(BuildContext context) {
+    return IconButton(
+      // Use the FlevaIcons class for the IconData
+      icon: Icon(FlevaIcons.activity_outline),
+      onPressed: () { print("Fleva Icons Pressed"); }
+     );
+  }
+}
+```
+
+
+## Demo
+
+![Fleva Icons](demo_fleva.jpg)
+![Fleva Icons](demo_fleva.mp4)
