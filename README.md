@@ -36,4 +36,3 @@ class MyWidget extends StatelessWidget {
 ## Demo
 
 ![Fleva Icons](demo_fleva.jpg)
-![Fleva Icons](demo_fleva.mp4)
