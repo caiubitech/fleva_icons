@@ -1,0 +1,22 @@
+name: fleva_icons
+description: A best Eva Icons package for Flutter.
+version: 0.0.1
+author: 'Caiubi Tech'
+homepage: ''
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: FlevaIcons
+      fonts:
+        - asset: lib/fonts/FlevaIcons.ttf
