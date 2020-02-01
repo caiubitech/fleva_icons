@@ -34,5 +34,5 @@ class MyWidget extends StatelessWidget {
 
 
 ## Demo
-![Fleva Icons](demo_fleva.jpg){:height="50%" width="50%"}
+![Fleva Icons](demo_fleva.jpg)
 
