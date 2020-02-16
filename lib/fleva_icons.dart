@@ -219,7 +219,8 @@ class FlevaIcons {
   static const IconData link = const FlevaIconData(0xe8d3);
   static const IconData linkedin_outline = const FlevaIconData(0xe8d4);
   static const IconData linkedin = const FlevaIconData(0xe8d5);
-  static const IconData menu_1 = const FlevaIconData(0xe8d6);
+  static const IconData menu = const FlevaIconData(0xe8d6);
+  static const IconData menu_arrow = const FlevaIconData(0xe8e1);
   static const IconData loader_outline = const FlevaIconData(0xe8d7);
   static const IconData lock_outline = const FlevaIconData(0xe8d8);
   static const IconData lock = const FlevaIconData(0xe8d9);
@@ -229,9 +230,6 @@ class FlevaIcons {
   static const IconData map = const FlevaIconData(0xe8dd);
   static const IconData maximize_outline = const FlevaIconData(0xe8de);
   static const IconData maximize = const FlevaIconData(0xe8df);
-  static const IconData menu_2 = const FlevaIconData(0xe8e0);
-  static const IconData menu_arrow = const FlevaIconData(0xe8e1);
-  static const IconData menu = const FlevaIconData(0xe8e2);
   static const IconData message_circle_outline = const FlevaIconData(0xe8e3);
   static const IconData message_circle = const FlevaIconData(0xe8e4);
   static const IconData message_square_outline = const FlevaIconData(0xe8e5);
