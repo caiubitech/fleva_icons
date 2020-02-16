@@ -1,7 +1,6 @@
 name: fleva_icons
 description: A best Eva Icons package for Flutter.
-version: 1.0.0
-author: 'Caiubi Tech <caiubi.app@gmail.com>'
+version: 1.0.1
 homepage: 'https://github.com/caiubitech/fleva_icons'
 
 environment:

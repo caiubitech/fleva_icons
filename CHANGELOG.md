@@ -1,1 +1,1 @@
-## [1.0.0] - Added new icon package
+## [1.0.1] - Added new icon package
